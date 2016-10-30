@@ -1,0 +1,18 @@
+{
+  "name": "My_Python_application",
+  "homepage": "https://github.com/divyanshu-rawat/My_Python_application",
+  "authors": [
+    "divyanshu <divyanshu.r46956@gmail.com>"
+  ],
+  "description": "Python Application that make use of google geolocation api to fetch data of user entered data.",
+  "main": "geolocation.py",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
